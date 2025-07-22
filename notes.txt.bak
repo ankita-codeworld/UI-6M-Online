@@ -19,4 +19,43 @@ Form - Validation Attributes
     13.pattern
 </form>
 
-HTML
+HTML 5 - New Features and Tags
+------------------------------
+
+Geo Location API
+User 1  : Dev Patel - GJ
+https://www.flipkart.com/account/addresses
+
+User 2  : Narasimha - Bangalore
+https://www.flipkart.com/account/addresses
+
+
+HTML 5 Features
+------------------
+1.Mutlimedia
+2.Geo Loation API enhances
+3.Browser Local Storage(Auth,execute client business logic data)
+4.Sematic Tags
+5.Audio and Video Tags
+6.Drag and Drap API
+7.RWD(resonsive Images)
+8.Form - <input Tags > Enhancesments
+
+
+HTML 5 New tags
+---------------
+<audio><video>
+<mark>
+<address>  
+<header>  - Always hedaer content will load first
+<footer>  - Always load footer contnet last
+<nav>     - 
+<figure>  
+<caption>
+
+<img />
+<h4>
+
+To collect data from usr - form input
+
+<input type="text"/>
