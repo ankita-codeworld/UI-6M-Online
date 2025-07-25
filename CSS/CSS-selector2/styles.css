@@ -1,0 +1,18 @@
+a{
+    background-color: red;
+}
+#dev{
+    background-color: yellow;
+}
+
+.abc{
+    background-color: aliceblues;
+}
+a[target]{
+    background-color: yellow;
+}
+
+*{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}

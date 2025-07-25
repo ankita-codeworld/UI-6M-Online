@@ -59,3 +59,91 @@ HTML 5 New tags
 To collect data from usr - form input
 
 <input type="text"/>
+
+----------------------
+git add -A
+git commit -m "html 5"
+git push
+=====================
+CSS
+
+Without CSS? can we apply styles or not?
+
+<h2 style="color:red">Good Evening </h2>
+
+1.Style Reusability
+2.Readabilty
+3.Modulearity
+
+
+CSS - Cascading(rendering or bringing) Style Sheet
+CSS - Cascading(rendering or bringing) Style Sheet
+
+reandering style from sheet. (.css file)
+style - global attribute
+
+How many can we apply style to web doc?
+	3 ways		 How        Reusabilty
+1.Inline CSS/Tag Level
+2.Internal CSS
+3.External CSS
+
+
+1.Style Reusability
+2.Readabilty 
+3.Modulearity
+4.Page will load faster
+5.PI & Portable
+6.Global Change 
+
+Rule 1-: Styles applied top to buttom
+         Nearest Style has highest priority
+Rule 2 : CSS Selector?
+What is CSS Selector? - group of sytles for reusabiltiy
+Types of selector?
+1.Tag/Element 
+2.Group of Tag/element 
+3.class selector                     -  .
+4.Id Selector                        -  #
+5.Group of tag,class and Id Selector
+6.Attribute Selector                 - [] 
+7.Universal Selector                 -  *
+
+Rule 1: Nearest Styles has highest priority
+        top to buttom
+Rule 2:
+
+=================================
+CSS - Selector?
+Group of styles - selector. Style Reusablity
+Tag/Element 
+Class 
+Id
+Attribute Selector
+Universal Selector
+==================
+Selector Specificity:
+Inline>id selector>class sel>Tag/element
+1000    100          10         1
+
+
+How many ways?
+inline 
+internal
+extenal
+
+-------------------------------------
+
+Application Development
+-----------------------
+Flex model vs Grid model
+
+Bootstrap - based grip model
+==================================
+any application/website - It fit to all difference 
+width devices - RWD
+===================================
+Bootstrap - 
+No Need to write device specific css.
+Bootstrap - library
+Most popular html,css and JS Library for RWD.
