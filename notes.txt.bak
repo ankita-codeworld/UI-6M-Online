@@ -147,3 +147,38 @@ Bootstrap -
 No Need to write device specific css.
 Bootstrap - library
 Most popular html,css and JS Library for RWD.
+
+How to enable Bootstrap?
+
+
+button
+nav
+form
+table
+model
+progressbar
+spinner
+carousel
+card
+list
+------------
+navbar
+button  -  .btn{}  .btn-cc{}
+table   -  .table{} .table-striped{} .table-hover{}
+
+list     - .list-group{} .list-group{}
+form     - .form-group{} .form-control{}
+grid     -  .row{}  .col-size{}
+card     - .card{}  .card-header{} .card-body{}
+
+================================================
+carousel - slider
+
+step1 : collect images - 1400*600 (images)
+	https://www.pexels.com/
+step2 : write carousel component code 
+step3 : add required depencies or cdn links
+	popper.js
+	bootstrap.js
+	jquery.js
+step4 : write jquery code to slider your images/video
